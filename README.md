@@ -1,5 +1,6 @@
 # MMDQEN: Multimodal Deep Quality Embedding Network for Affective Video Content Analysis
 
+This is our implementation of MMDQEN associated with the following paper:
 
  >**Affective video content analysis via multimodal deep quality embedding network,**  
  >Yaochen Zhu, Zhenzhong Chen, Feng Wu  
