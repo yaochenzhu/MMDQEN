@@ -4,14 +4,14 @@ This is our implementation of MMDQEN associated with the following paper:
 
  >**Affective video content analysis via multimodal deep quality embedding network,**  
  >Yaochen Zhu, Zhenzhong Chen, Feng Wu  
- >Accepted as a journal paper in IEEE Trans. Affect. Compute.
+ >Accepted as a journal paper in IEEE Trans. Affect. Compute, 2020.
 
 ## Environment
 
 The codes are written in Python 3.6.5 with the following packages.  
 
 - numpy == 1.16.3
-- tensorflow-gpu == 1.13.0
+- tensorflow-gpu == 1.13.1
 - tensorflow-probability == 0.6.0
 
 ## Datasets
