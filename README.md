@@ -1,4 +1,4 @@
-# MMDQEN: Multimodal Deep Quality Embedding Network
+# MMDQEN: Multimodal Deep Quality Embedding Network for Affective Video Content Analysis
 
 
  >**Affective video content analysis via multimodal deep quality embedding network,**  
